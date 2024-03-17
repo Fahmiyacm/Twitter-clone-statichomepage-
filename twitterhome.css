@@ -1,0 +1,127 @@
+.main
+{
+
+}
+.logo
+{
+    width:100%;
+    height: 715px;
+    display: flex;
+}
+.logoleft
+{
+    width:50%;
+}
+.logoright
+{
+    width: 50%;
+}
+.logosize
+{
+    width:55%;
+    height:50%;
+    padding-top: 138px;
+    padding-left: 146px;
+}
+.happening
+{
+    padding-top: 85px;
+    padding-left: 74px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: "TwitterChirpExtendedHeavy","Verdana",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+.jointoday
+{
+    padding-top: 60px;
+    padding-left: 74px;
+    font-weight: bold;
+    font-size: 30px; 
+    font-family:"TwitterChirpExtendedHeavy","Verdana",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif ;
+}
+.but1
+{
+    width:293px;
+    height:39px;
+    background-color:white;
+    border-radius: 28px;
+    border: 2px solid #e7e7e7;
+    display: flex;
+    cursor: pointer;
+    
+    
+}
+.but1:hover
+{
+    background-color:rgb(239, 239, 244); 
+}
+.butdiv
+{
+    padding-top: 35px;
+    padding-left: 81px;
+}
+
+.googlelogo
+{
+    height: 18px;
+    margin-right: 8px;
+    min-width: 18px;
+    width: 18px;
+    padding-left: 60px;
+    padding-top: 10px;
+} 
+.line
+{
+    padding-left: 58px;
+    padding-top: 10px;
+    
+}
+.but2
+{
+    width:293px;
+    height:39px;
+    background-color:rgb(6, 166, 240);
+    border-radius: 28px;
+    border: none;
+    display: flex;
+    cursor: pointer;
+    color: white;
+    padding-left: 70px;
+    cursor: pointer;
+    
+}
+.but2:hover
+{
+    background-color:rgb(62, 132, 237); 
+}
+.terms
+{
+    padding-left: 85px;
+    padding-top: 6px;
+    font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+    
+.spanfont
+{
+    color:rgba(28, 178, 242, 0.63);
+}
+.allready
+{
+    padding-top: 50px;
+    padding-left: 85px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: normal;
+}
+.bottum
+{
+    color:rgb(101, 104, 104);
+    padding-left: 10px;
+    text-decoration:none
+    
+}
+.bottum:hover
+{
+    text-decoration: underline;
+}
+
